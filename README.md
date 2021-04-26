@@ -16,8 +16,8 @@
 ### 📊 Stats
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Guilherme-Ferreira2107&show_icons=true&theme=tokyonight" height="190px" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Ferreira2107&layout=compact&theme=tokyonight" height="190px" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Guilherme-Ferreira2107&show_icons=true&theme=tokyonight" height="140px" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Ferreira2107&layout=compact&theme=tokyonight" height="140px" alt="stats" />
 </p>
 
 ### 📈 Contributions
