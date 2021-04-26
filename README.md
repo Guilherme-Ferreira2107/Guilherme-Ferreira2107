@@ -1,16 +1,28 @@
-### Hi there 👋
+### 😄 About me 
+---
+  <div>
+    <p>My name is Guilherme Santos, I'm full stack JavaScript developer</p>
+    <p>Best practices accumulated since 2017 in JavaScript using technologies:</p>
+    <ul>
+      <li><a href="https://reactjs.org/">React js</a></li>
+      <li><a href="https://nodejs.org/">Node js</a></li>
+      <li><a href="https://www.mongodb.com/">MongoDB</a></li>
+    </ul>
+    <p>I’m currently working on <a href="https://www.brq.com/">BRQ Digital Solutions</a></p>
+  <p>Visit my personal page <a href="https://guilherme-ferreira2107.github.io/">Guilherme Santos</a></p>
+  </div>
 
-<!--
-**Guilherme-Ferreira2107/Guilherme-Ferreira2107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 📊 Stats
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Guilherme-Ferreira2107&show_icons=true&theme=tokyonight" height="190px" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Ferreira2107&layout=compact&theme=tokyonight" height="190px" alt="stats" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Contributions
+---
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Guilherme-Ferreira2107&theme=react-dark" alt="contributions" />
+</p>
