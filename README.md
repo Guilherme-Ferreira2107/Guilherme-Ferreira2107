@@ -8,7 +8,7 @@
       <li><a href="https://nodejs.org/">Node js</a></li>
       <li><a href="https://www.mongodb.com/">MongoDB</a></li>
     </ul>
-    <p>I’m currently working on <a href="https://www.brq.com/">BRQ Digital Solutions</a></p>
+    <p>I’m currently working on <a href="https://www.brq.com/">BRQ Digital Solutions as a Systems Analyst</a></p>
   <p>Visit my personal page <a href="https://guilherme-ferreira2107.github.io/">Guilherme Santos</a></p>
   </div>
 
