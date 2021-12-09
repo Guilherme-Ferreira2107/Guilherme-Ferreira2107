@@ -5,6 +5,7 @@
     <p>Best practices accumulated since 2017 in JavaScript using technologies:</p>
     <ul>
       <li><a href="https://reactjs.org/">React js</a></li>
+      <li><a href="https://angular.io/">Angular</a></li>
       <li><a href="https://nodejs.org/">Node js</a></li>
       <li><a href="https://www.mysql.com/">MySql</a></li>
     </ul>
