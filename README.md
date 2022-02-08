@@ -9,7 +9,6 @@
       <li><a href="https://nodejs.org/">Node js</a></li>
       <li><a href="https://www.mysql.com/">MySql</a></li>
     </ul>
-    <p>I’m currently working on <a href="https://www.brq.com/">BRQ Digital Solutions</a> as a Systems Analyst</p>
   <p>Visit my personal page <a href="https://guilherme-ferreira2107.github.io/">Guilherme Santos</a></p>
   </div>
 
