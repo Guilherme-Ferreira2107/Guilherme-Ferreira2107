@@ -9,7 +9,7 @@
       <li><a href="https://nodejs.org/">Node js</a></li>
       <li><a href="https://www.mysql.com/">MySql</a></li>
     </ul>
-  <p>Visit my personal page <a href="https://guilherme-ferreira2107.github.io/">Guilherme Santos</a></p>
+  <p>Visit my personal page <a href="https://guilhermesantos.surge.sh/">Guilherme Santos</a></p>
   </div>
 
 
