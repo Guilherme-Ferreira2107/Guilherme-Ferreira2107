@@ -2,7 +2,7 @@
 ---
   <div>
     <p>My name is Guilherme Santos, I'm full stack JavaScript developer</p>
-    <p>Best practices accumulated since 2017 in JavaScript using technologies:</p>
+    <p>Best practices accumulated since 2012 in JavaScript using technologies:</p>
     <ul>
       <li><a href="https://reactjs.org/">React js</a></li>
       <li><a href="https://angular.io/">Angular</a></li>
